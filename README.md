@@ -6,6 +6,5 @@
 * [Tree Traversal](programiz.com/dsa/tree-traversal)
 * [Binary Search Tree](en.wikipedia.org/wiki/Binary_search_tree)
 * [Data structures: Binary Tree](youtube.com/watch?v=H5JubkIy_p8)
-* [fcc](freecodecamp.org/news/data-structures-101-binary-search-tree-398267b6bff0/)
 * [mycodeschool.ds.playlist(25-37)](https://www.youtube.com/watch?v=qH6yxkw0u78&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=26)
 
