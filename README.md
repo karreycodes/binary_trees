@@ -8,5 +8,5 @@
 * [programiz](https://www.programiz.com/dsa/trees)
 * [Data structures: Binary Tree](youtube.com/watch?v=H5JubkIy_p8)
 * [fcc](freecodecamp.org/news/data-structures-101-binary-search-tree-398267b6bff0/)
-* [mycodeschool.ds.playlist(25-28)](https://www.youtube.com/watch?v=qH6yxkw0u78&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=26)
+* [mycodeschool.ds.playlist(25-37)](https://www.youtube.com/watch?v=qH6yxkw0u78&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=26)
 
